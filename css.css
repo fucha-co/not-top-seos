@@ -31,12 +31,12 @@
  html,
  body {
    height: 100%;
-   background-color: #333;
+   background-color: #fafafa;
  }
  body {
-   color: #fff;
+   color: #111;
    text-align: center;
-   text-shadow: 0 1px 3px rgba(0,0,0,.5);
+   text-shadow: 0;
  }
 
  /* Extra markup and styles for table-esque vertical and horizontal centering */
@@ -127,8 +127,7 @@
   */
 
  .mastfoot {
-   color: #999; /* IE8 proofing */
-   color: rgba(255,255,255,.5);
+   color: #444; /* IE8 proofing */
  }
 
 
