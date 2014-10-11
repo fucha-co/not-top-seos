@@ -95,7 +95,7 @@
  .masthead-nav > .active > a,
  .masthead-nav > .active > a:hover,
  .masthead-nav > .active > a:focus {
-   color: #fff;
+   color: #000;
    border-bottom-color: #fff;
  }
 
@@ -165,3 +165,7 @@
    }
  }
 line{display:none!important}@media print{.visible-print-inline{display:inline!important}}.visible-print-inline-block{display:none!important}@media print{.visible-print-inline-block{display:inline-block!important}}@media print{.hidden-print{display:none!important}}
+
+a:hover {
+  color: #000;
+}
